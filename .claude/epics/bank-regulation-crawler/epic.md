@@ -1,8 +1,8 @@
 ---
 name: bank-regulation-crawler
-status: backlog
+status: in_progress
 created: 2025-09-04T08:58:44Z
-progress: 0%
+progress: 10%
 prd: .claude/prds/bank-regulation-crawler.md
 github: https://github.com/littlecarp/reg-assist/issues/1
 ---
