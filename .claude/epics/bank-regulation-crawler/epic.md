@@ -4,7 +4,7 @@ status: backlog
 created: 2025-09-04T08:58:44Z
 progress: 0%
 prd: .claude/prds/bank-regulation-crawler.md
-github: [Will be updated when synced to GitHub]
+github: https://github.com/littlecarp/reg-assist/issues/1
 ---
 
 # Epic: Bank Regulation Crawler
